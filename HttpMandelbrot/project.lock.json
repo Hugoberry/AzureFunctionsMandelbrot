@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "targets": {
+    ".NETFramework,Version=v4.6": {
+      "MathNet.Numerics/3.19.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/MathNet.Numerics.dll": {}
+        },
+        "runtime": {
+          "lib/net40/MathNet.Numerics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathNet.Numerics/3.19.0": {
+      "sha512": "t8a70ASbC4oyZcJBG+c6iKwgIGfPDufDb0WYp5YAcFqh2e0RiIzqFHEOOC61PpckkbYymn3dKEDzC4TnWBh03g==",
+      "type": "package",
+      "path": "mathnet.numerics/3.19.0",
+      "files": [
+        "lib/net35/MathNet.Numerics.dll",
+        "lib/net35/MathNet.Numerics.xml",
+        "lib/net40/MathNet.Numerics.dll",
+        "lib/net40/MathNet.Numerics.xml",
+        "lib/portable-net4+sl5+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1/MathNet.Numerics.XML",
+        "lib/portable-net4+sl5+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1/MathNet.Numerics.dll",
+        "lib/portable-net45+netcore45+MonoAndroid1+MonoTouch1/MathNet.Numerics.XML",
+        "lib/portable-net45+netcore45+MonoAndroid1+MonoTouch1/MathNet.Numerics.dll",
+        "lib/portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1/MathNet.Numerics.XML",
+        "lib/portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1/MathNet.Numerics.dll",
+        "lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1/MathNet.Numerics.XML",
+        "lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1/MathNet.Numerics.dll",
+        "lib/portable-net45+sl5+netcore45+MonoAndroid1+MonoTouch1/MathNet.Numerics.XML",
+        "lib/portable-net45+sl5+netcore45+MonoAndroid1+MonoTouch1/MathNet.Numerics.dll",
+        "license.txt",
+        "mathnet.numerics.3.19.0.nupkg.sha512",
+        "mathnet.numerics.nuspec",
+        "readme.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "": [],
+    ".NETFramework,Version=v4.6": [
+      "MathNet.Numerics >= 3.19.0"
+    ]
+  },
+  "tools": {},
+  "projectFileToolGroups": {},
+  "packageFolders": {
+    "D:\\home\\data\\Functions\\packages\\nuget": {}
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "bindings": [
+    {
+      "name": "batch",
+      "type": "queueTrigger",
+      "direction": "in",
+      "queueName": "mandelbrot",
+      "connection": "store4func_STORAGE"
+    }
+  ],
+  "disabled": false
+}

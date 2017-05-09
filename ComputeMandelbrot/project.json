@@ -1,0 +1,9 @@
+{
+  "frameworks": {
+    "net46":{
+      "dependencies": {
+        "MathNet.Numerics": "3.19.0"
+      }
+    }
+   }
+}
